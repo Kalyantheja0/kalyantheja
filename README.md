@@ -61,4 +61,4 @@ Git | Firebase | Supabase | Remix | VS Code | Cursor AI | MongoDB | Postman
 
 ---
 
-*Thanks for checking out my profile! Feel free to explore my repositories or reach out for collaboration.* 🚀
+*Thanks for checking out my profile! Feel free to explore my repositories or reach out for collaboration.* 
