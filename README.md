@@ -9,7 +9,7 @@ I’m a final-year Computer Science student at VIT, passionate about building in
 ## 🔨 Projects
 
 ### 🚀 [FurpRewards](https://github.com/Kalyantheja0/FurPrewards)
-A gamified platform for **Stake.com** communities that includes:
+A gamified platform for **Kick.com** communities that includes:
 - Bonus hunt trackers
 - "Guess the Balance" events
 - Discord login, leaderboards, and stream integrations  
