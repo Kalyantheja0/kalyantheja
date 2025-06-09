@@ -44,15 +44,6 @@ Git | Firebase | Supabase | Remix | VS Code | Cursor AI | MongoDB | Postman
 
 ---
 
-## 🧠 Experience
-
-**Intern – cSigma Finance Inc (Remote, 2023)**  
-- Built frontend modules with React  
-- Integrated smart contracts using Web3.js  
-- Designed decentralized finance features
-
----
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kalyan-theja/)
